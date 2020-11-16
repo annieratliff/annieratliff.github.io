@@ -1,0 +1,20 @@
+img {
+    width: 100%;
+    height: auto;
+}
+h1 {
+    color: mediumaquamarine;
+    background-color: rgb(43, 42, 46);
+    height: 60px;
+}
+p {
+    background-color: rgb(181, 235, 186)
+    cornflowerblue
+    
+    margin: 5px;
+    padding: 5px;
+}
+nav {
+    background-color:cornflowerblue
+    height: 100px;
+}
