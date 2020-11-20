@@ -3,8 +3,8 @@ img {
     height: auto;
 }
 h1 {
-    color: mediumaquamarine;
-    background-color: rgb(43, 42, 46);
+    color: cornflowerblue;
+    background-color: rgb(236, 236, 193);
     height: 60px;
 }
 p {
@@ -17,4 +17,7 @@ p {
 nav {
     background-color:cornflowerblue
     height: 100px;
+}
+a {
+    color:darkgreen
 }
