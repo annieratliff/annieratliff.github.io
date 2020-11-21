@@ -197,42 +197,7 @@ html {
     background: rgba(0, 0, 0, 0.3);
   }
   
-  /* About Page CSS */
-  .about-page {
-    padding: 2rem 1rem 10rem 1rem;
-    display: grid;
-    grid-template-columns: 1fr;
-    height: 100%;
-    background-color: white;
-  }
-  
-  .about-text {
-    margin: 0 auto;
-    color: black;
-    font-size: auto;
-  }
-  
-  .about-text h1 {
-    font-size: 2rem;
-    line-height: 2rem;
-    color: black;
-  }
-  
-  .about-image img {
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .about-social {
-    display: flex;
-    justify-content: start;
-    color: white;
-  }
-  
-  .about-social a {
-    color: black;
-    padding: 0 1rem 1rem 1rem;
-  }
+
   /* Begin Grid Gallery Styles*/
   .gallery-page {
     padding: 0 1rem 10rem 1rem;
