@@ -150,8 +150,7 @@ html {
   .hero-video {
     width: 100%;
     height: 100%;
-   object-fit: initial;
-
+    object-fit: cover;
   }
   
   .hero-text-box {
@@ -198,38 +197,32 @@ html {
     background: rgba(0, 0, 0, 0.3);
   }
   
-/* About Page CSS */
+/* About Page CSS*/
 .about-page {
-    padding: 2rem 1rem 10rem 1rem;
-    display: grid;
-    grid-template-columns: 1fr;
+    padding: 2rem 1 rem 10 rem 1 rem;
+    display:grid ;
+    grid-template-columns: 1fr ;
     height: 100%;
-  }
-  
-  .about-text {
-    margin: 0 auto;
-  }
-  
-  .about-text h1 {
-    font-size: 2rem;
-    line-height: 2rem;
-  }
-  
-  .about-image img {
+}
+
+.about-text h1{
+font-size: 2rem;
+line-height: 2rem;
+}
+.about-page img{
     height: 100%;
     object-fit: cover;
-  }
-  
-  .about-social {
+}
+
+.about-scoial{
     display: flex;
     justify-content: start;
-  }
-  
-  .about-social a {
-    color: black;
-    padding: 0 1rem 1rem 1rem;
-  }
-  
+}
+
+.about-scoial a{
+color: black;
+padding: 1rem 1 rem 1 rem;
+}
 
   /* Begin Grid gallery Styles*/
   .gallery-page {
