@@ -34,7 +34,7 @@ html {
     align-items: center;
     line-height: 1rem;
     overflow: hidden;
-    background-color: black;
+    background-color: rgb(104, 126, 92);
   }
   
   .logo,
@@ -82,7 +82,7 @@ html {
   .nav-menu a {
     font-weight: 400;
     letter-spacing: 0.1rem;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid whi;
     transition: all ease 0.1s;
   }
   
@@ -103,7 +103,7 @@ html {
   
   .hero-nav .logo a,
   .hero-nav .nav-menu a {
-    color: white;
+    color: black;
   }
   
   .hero-nav .nav-menu a:hover {
@@ -111,7 +111,7 @@ html {
   }
   
   .hero-nav .nav-menu a {
-    border-bottom: 1px solid rgba(29, 34, 102, 0);
+    border-bottom: 1px solid black;
   }
   
   /* Homepage Hero */
@@ -168,13 +168,13 @@ html {
     letter-spacing: 0.05rem;
     font-weight: bold;
     text-transform: uppercase;
-    color: white;
+    color: rgb(104, 126, 92);
   }
   
   .hero-text {
     font-size: 1rem;
     margin-top: 0.5rem;
-    color: white;
+    color: rgb(104, 126, 92);
   }
   
   .hero-button {
@@ -220,7 +220,7 @@ line-height: 2rem;
 }
 
 .about-scoial a{
-color: black;
+color: rgb(104, 126, 92);
 padding: 1rem 1 rem 1 rem;
 }
 
@@ -288,7 +288,7 @@ padding: 1rem 1 rem 1 rem;
   }
   
   .footer-social a {
-    color: black;
+    color: rgb(104, 126, 92);
   
     padding: 0 1rem;
   }
